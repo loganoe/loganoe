@@ -10,7 +10,6 @@
 ## Collaborations: 
 
 * Insight AI (2025) https://github.com/loganoe/InsightAIPublic.git, collaboration with @Justino4631 
-* 
 ## Work in progress: 
 
 * Gameify (est. 2025) https://github.com/loganoe/Gameify
