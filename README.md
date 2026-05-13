@@ -18,4 +18,10 @@
 ## Other (dont expect much documentation on these): 
 
 * CNC Compiler (2024) https://github.com/loganoe/cnccompile.git
+
+## Open source contributions:
+
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+
+Contributing to RustChain and the Elyan Labs ecosystem through accessibility fixes, miner tooling, and code review.
     
