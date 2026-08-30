@@ -9,7 +9,7 @@
 ## Collaborations: 
 
 * Insight AI (2025) https://github.com/loganoe/InsightAIPublic.git, collaboration with @Justino4631
-* 
+  
 ## Work in progress: 
 
 * JARVIS (est. 2027) https://github.com/loganoe/JARVIS
