@@ -12,7 +12,6 @@
   
 ## Work in progress: 
 
-* JARVIS (est. 2027) https://github.com/loganoe/JARVIS
 
 ## Other (dont expect much documentation on these): 
 
